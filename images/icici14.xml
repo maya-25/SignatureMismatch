@@ -1,0 +1,38 @@
+<annotation>
+	<folder>icici</folder>
+	<filename>icici14.jpg</filename>
+	<path>D:\iNeuron\Deep Learning\Internship\Final\icici\icici14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>icici_accountno</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>529</ymin>
+			<xmax>758</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>icici_signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1974</xmin>
+			<ymin>688</ymin>
+			<xmax>2387</xmax>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+</annotation>
